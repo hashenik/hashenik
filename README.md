@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Weekly dose of interesting content around .NET](https://dotnetletter.com)
 <!--
 **hashenik/hashenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
